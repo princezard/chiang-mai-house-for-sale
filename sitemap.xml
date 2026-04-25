@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://princezard.github.io/chiang-mai-house-for-sale/</loc>
+        <xhtml:link rel="alternate" hreflang="th" href="https://princezard.github.io/chiang-mai-house-for-sale/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://princezard.github.io/chiang-mai-house-for-sale/en/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://princezard.github.io/chiang-mai-house-for-sale/"/>
+        <lastmod>2026-04-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://princezard.github.io/chiang-mai-house-for-sale/en/</loc>
+        <xhtml:link rel="alternate" hreflang="th" href="https://princezard.github.io/chiang-mai-house-for-sale/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://princezard.github.io/chiang-mai-house-for-sale/en/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://princezard.github.io/chiang-mai-house-for-sale/"/>
+        <lastmod>2026-04-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>

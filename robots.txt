@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://princezard.github.io/chiang-mai-house-for-sale/sitemap.xml
